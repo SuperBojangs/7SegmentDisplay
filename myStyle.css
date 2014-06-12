@@ -1,0 +1,39 @@
+body {
+  margin:0 auto;
+  font-family: sans-serif;
+}
+
+div{
+  text-align:center;
+  
+  
+}
+table{
+  border-radius:10px;
+  padding:5px;
+  
+}
+button{
+  margin:15px;
+  padding:5px 15px;
+  border-radius:10px;
+}
+
+7seg{
+  background-color:black;
+}
+.y{
+  background-color:red;
+}
+.n{
+  background-color:black;
+}
+button{
+  
+}
+.display_output{
+  background:black;
+}
+.x{
+  background:#330000;
+}
